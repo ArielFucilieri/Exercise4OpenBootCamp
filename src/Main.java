@@ -44,7 +44,7 @@ public class Main {
                         System.out.println("Es PRIMAVERA");
                         break;
                     default:
-                        System.out.println(estaciones);
+                        System.out.println("No es una estacion");
                         break;
                 }
 
